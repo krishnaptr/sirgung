@@ -1000,3 +1000,10 @@ a:focus {
   color: #ffffff;
 }
 /*# sourceMappingURL=style.css.map */
+
+
+@media screen and (max-width: 768px) {
+ .navbar-brand {
+  justify-content: center;
+ }
+}
